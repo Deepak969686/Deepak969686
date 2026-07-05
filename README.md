@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Saini</h1>
 
-<h3 align="center">
-B.Tech CSE (Artificial Intelligence) Student | Java Developer | AI & Machine Learning Enthusiast
-</h3>
-
-<p align="center">
-Passionate about building AI-powered applications, solving Data Structures & Algorithms in Java, and creating real-world Machine Learning solutions.
-</p>
+Welcome to my GitHub profile! I'm a B.Tech CSE (Artificial Intelligence) student building real-world AI applications—from Machine Learning and Deep Learning models to NLP, Computer Vision, and LLM-powered solutions. I'm currently exploring RAG, LangChain, FastAPI, Docker, and MLOps while strengthening my foundation in Data Structures & Algorithms using Java.
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Deepak969686&label=Profile%20Views&color=0e75b6&style=flat" />
