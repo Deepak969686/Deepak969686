@@ -88,6 +88,10 @@ Welcome to my GitHub profile! I'm a B.Tech CSE (Artificial Intelligence) student
 
 # 💻 Competitive Programming
 
+<a href="https://codolio.com/profile/Deepakkumarsaini" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-222222?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
 ### LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deepak_kumar_Saini?theme=dark)
