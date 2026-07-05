@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Saini</h1>
 
 <p align="center">
-🎓 B.Tech CSE (Artificial Intelligence) Student • 🤖 AI & Machine Learning • 💻 DSA with Java
+🎓 B.Tech CSE (Artificial Intelligence) Student • 🤖 AI/ML • 💻 Java for DSA & OOP
 </p>
 
 <p align="center">
 Building real-world AI applications across Machine Learning, Deep Learning, NLP, Computer Vision, and LLMs while exploring RAG, LangChain, FastAPI, Docker, and MLOps.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepak969686&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -13,13 +17,30 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 # 🚀 About Me
 
 - 🎓 4th Year B.Tech CSE (Artificial Intelligence) student at **SKIT, Jaipur**
-- 🤖 Building AI/ML projects across **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**
-- 🛠️ Developing end-to-end AI applications using **TensorFlow, FastAPI, Streamlit, Docker, and Python**
-- 🌱 Currently learning **LLMs, Retrieval-Augmented Generation (RAG), LangChain, Vector Databases, and MLOps**
-- 💻 Passionate about **Java, Data Structures & Algorithms**, and writing clean, efficient code
-- 🚀 Focused on building real-world, production-ready AI solutions—not just training models
-- 📚 Regularly solving problems on **LeetCode** and **GeeksforGeeks** to strengthen problem-solving skills
-- 📫 Reach me at **[Deepakkumarsaini255@gmail.com](mailto:deepakkumarsaini255@gmail.com)**
+- 🤖 Building AI applications across **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**
+- 🛠️ Developing end-to-end AI solutions using **TensorFlow, FastAPI, Streamlit, Docker, Python, and AWS EC2**
+- 🌱 Currently exploring **LLMs, RAG, LangChain, Vector Databases, and MLOps**
+- 💻 Strengthening problem-solving skills through **Data Structures & Algorithms** and **Object-Oriented Programming** using **Java**
+- 🤝 Open to collaborating on AI, Machine Learning, and Open Source projects
+
+---
+
+# 🚀 Featured Projects
+
+### 💳 Credit Card Fraud Detection
+Hybrid fraud detection system using **LightGBM, Isolation Forest, SHAP, FastAPI, Streamlit, Docker, and AWS EC2**.
+
+### 📄 RAG Document Question Answering
+LLM-powered PDF question answering system using **LangChain, ChromaDB, Hugging Face, and Groq**.
+
+### 😊 Twitter Sentiment Analysis
+Machine Learning-based sentiment classification using **NLP, Scikit-Learn, and Streamlit**.
+
+### 🖼️ MNIST Image Denoising Autoencoder
+Deep Learning project for image reconstruction using **TensorFlow/Keras Autoencoders**.
+
+### 🎬 Stream House
+Responsive movie streaming website developed using **HTML, CSS, and JavaScript**.
 
 ---
 
@@ -30,6 +51,7 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
@@ -69,6 +91,13 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 
 ---
 
+## 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
 ## 🛠️ Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -80,30 +109,35 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 
 ---
 
-## 🗄️ Databases
+# 📊 GitHub Statistics
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepak969686&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak969686&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Deepak969686&theme=tokyonight"/>
+</p>
 
 ---
 
 # 💻 Competitive Programming
 
-### Codolio 
+### 🏅 Codolio
 
 [![Codolio](https://img.shields.io/badge/Codolio-Profile-24292F?style=for-the-badge)](https://codolio.com/profile/Deepakkumarsaini)
 
----
-
-### LeetCode
+### 💛 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deepak_kumar_Saini?theme=dark)
 
----
+### 💚 GeeksforGeeks
 
-### GeeksforGeeks
-
-![GFG](https://gfgstatscard.vercel.app/dksaini0704)
+![GFG Stats](https://gfgstatscard.vercel.app/dksaini0704)
 
 ---
 
@@ -115,15 +149,33 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/deepakkumarji
-- 💻 GitHub: https://github.com/Deepak969686
-- 📊 Kaggle: https://kaggle.com/deepakkumarsaini1
-- 📧 Email: Deepakkumarsaini255@gmail.com
+<p align="left">
+
+<a href="https://linkedin.com/in/deepakkumarji">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Deepak969686">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://kaggle.com/deepakkumarsaini1">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://huggingface.co/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+
+<a href="mailto:Deepakkumarsaini255@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 💡 Quote
-
-> *"Learning never stops. Every project is another step toward becoming a better engineer."*
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+⭐ <b>Thanks for visiting my profile!</b><br>
+💡 <i>Building AI solutions that create real-world impact.</i>
+</p>
