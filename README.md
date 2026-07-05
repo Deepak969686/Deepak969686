@@ -34,7 +34,6 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
 
 ## 🤖 AI / Machine Learning
 
@@ -49,7 +48,6 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154360?style=for-the-badge)
 
----
 
 ## 🧠 Generative AI
 
@@ -57,7 +55,6 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge)
 
----
 
 ## 🌐 Web & Deployment
 
@@ -70,14 +67,12 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
 
 ## 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
 
 ## 🛠️ Developer Tools
 
