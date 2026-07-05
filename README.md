@@ -12,9 +12,6 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Generative+AI;LLMs+%7C+RAG+%7C+MLOps;Always+Learning+Something+New+🚀" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Deepak969686&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
 ---
 
@@ -26,30 +23,6 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 - 🌱 Currently exploring **LLMs, Retrieval-Augmented Generation (RAG), LangChain, Vector Databases, and MLOps**
 - 💻 Strengthening problem-solving skills through **Data Structures & Algorithms** and **Object-Oriented Programming** using Java
 - 🤝 Open to internships and collaborations in **AI, Machine Learning, and Software Engineering**
-
----
-
-# 🚀 Featured Projects
-
-### 💳 Credit Card Fraud Detection
-
-Hybrid fraud detection system using **LightGBM, Isolation Forest, SHAP, FastAPI, Docker, Streamlit, and AWS EC2**.
-
-### 📄 RAG Document Question Answering
-
-LLM-powered PDF Question Answering using **LangChain, ChromaDB, Hugging Face Embeddings, and Groq LLM**.
-
-### 😊 Twitter Sentiment Analysis
-
-Sentiment classification using **NLP, Scikit-Learn, Streamlit, and Machine Learning**.
-
-### 🖼️ MNIST Image Denoising Autoencoder
-
-Image reconstruction using **TensorFlow/Keras Autoencoders**.
-
-### 🎬 Stream House
-
-Responsive movie streaming platform built using **HTML, CSS, and JavaScript**.
 
 ---
 
@@ -117,38 +90,17 @@ Responsive movie streaming platform built using **HTML, CSS, and JavaScript**.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepak969686&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak969686&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Deepak969686&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Deepak969686&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
 # 💻 Competitive Programming
 
-### 🏅 Codolio
+###  Codolio
 
 [![Codolio](https://img.shields.io/badge/Codolio-Profile-24292F?style=for-the-badge)](https://codolio.com/profile/Deepakkumarsaini)
 
-### 💛 LeetCode
+###  LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deepak_kumar_Saini?theme=dark)
 
-### 💚 GeeksforGeeks
+###  GeeksforGeeks
 
 ![GFG Stats](https://gfgstatscard.vercel.app/dksaini0704)
 
