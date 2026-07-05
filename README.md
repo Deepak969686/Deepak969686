@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Saini</h1>
 
-Welcome to my GitHub profile! I'm a B.Tech CSE (Artificial Intelligence) student building real-world AI applications—from Machine Learning and Deep Learning models to NLP, Computer Vision, and LLM-powered solutions. I'm currently exploring RAG, LangChain, FastAPI, Docker, and MLOps while strengthening my foundation in Data Structures & Algorithms using Java.
+<p align="center">
+🎓 B.Tech CSE (Artificial Intelligence) Student • 🤖 AI & Machine Learning • 💻 DSA with Java
+</p>
+
+<p align="center">
+Building real-world AI applications across Machine Learning, Deep Learning, NLP, Computer Vision, and LLMs while exploring RAG, LangChain, FastAPI, Docker, and MLOps.
+</p>
 
 ---
 
