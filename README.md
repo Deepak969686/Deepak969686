@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Saini</h1>
 
 <p align="center">
-🎓 B.Tech CSE (Artificial Intelligence) Student • 🤖 AI/ML • 💻 Java for DSA & OOP
+  🎓 B.Tech CSE (Artificial Intelligence) Student • 🤖 AI/ML • 💻 Java for DSA & OOP
 </p>
 
 <p align="center">
@@ -9,7 +9,11 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepak969686&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Generative+AI;LLMs+%7C+RAG+%7C+MLOps;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Deepak969686&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -18,29 +22,34 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 
 - 🎓 4th Year B.Tech CSE (Artificial Intelligence) student at **SKIT, Jaipur**
 - 🤖 Building AI applications across **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**
-- 🛠️ Developing end-to-end AI solutions using **TensorFlow, FastAPI, Streamlit, Docker, Python, and AWS EC2**
-- 🌱 Currently exploring **LLMs, RAG, LangChain, Vector Databases, and MLOps**
-- 💻 Strengthening problem-solving skills through **Data Structures & Algorithms** and **Object-Oriented Programming** using **Java**
-- 🤝 Open to collaborating on AI, Machine Learning, and Open Source projects
+- 🛠️ Developing end-to-end AI applications using **TensorFlow, FastAPI, Streamlit, Docker, AWS EC2, and Python**
+- 🌱 Currently exploring **LLMs, Retrieval-Augmented Generation (RAG), LangChain, Vector Databases, and MLOps**
+- 💻 Strengthening problem-solving skills through **Data Structures & Algorithms** and **Object-Oriented Programming** using Java
+- 🤝 Open to internships and collaborations in **AI, Machine Learning, and Software Engineering**
 
 ---
 
 # 🚀 Featured Projects
 
 ### 💳 Credit Card Fraud Detection
-Hybrid fraud detection system using **LightGBM, Isolation Forest, SHAP, FastAPI, Streamlit, Docker, and AWS EC2**.
+
+Hybrid fraud detection system using **LightGBM, Isolation Forest, SHAP, FastAPI, Docker, Streamlit, and AWS EC2**.
 
 ### 📄 RAG Document Question Answering
-LLM-powered PDF question answering system using **LangChain, ChromaDB, Hugging Face, and Groq**.
+
+LLM-powered PDF Question Answering using **LangChain, ChromaDB, Hugging Face Embeddings, and Groq LLM**.
 
 ### 😊 Twitter Sentiment Analysis
-Machine Learning-based sentiment classification using **NLP, Scikit-Learn, and Streamlit**.
+
+Sentiment classification using **NLP, Scikit-Learn, Streamlit, and Machine Learning**.
 
 ### 🖼️ MNIST Image Denoising Autoencoder
-Deep Learning project for image reconstruction using **TensorFlow/Keras Autoencoders**.
+
+Image reconstruction using **TensorFlow/Keras Autoencoders**.
 
 ### 🎬 Stream House
-Responsive movie streaming website developed using **HTML, CSS, and JavaScript**.
+
+Responsive movie streaming platform built using **HTML, CSS, and JavaScript**.
 
 ---
 
@@ -51,7 +60,6 @@ Responsive movie streaming website developed using **HTML, CSS, and JavaScript**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
@@ -112,15 +120,20 @@ Responsive movie streaming website developed using **HTML, CSS, and JavaScript**
 # 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepak969686&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak969686&layout=compact&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Deepak969686&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Deepak969686&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -149,7 +162,7 @@ Responsive movie streaming website developed using **HTML, CSS, and JavaScript**
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/deepakkumarji">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -163,7 +176,7 @@ Responsive movie streaming website developed using **HTML, CSS, and JavaScript**
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<a href="https://huggingface.co/YOUR_USERNAME">
+<a href="https://huggingface.co/YOUR_HUGGINGFACE_USERNAME">
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
@@ -175,7 +188,10 @@ Responsive movie streaming website developed using **HTML, CSS, and JavaScript**
 
 ---
 
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+
 <p align="center">
-⭐ <b>Thanks for visiting my profile!</b><br>
-💡 <i>Building AI solutions that create real-world impact.</i>
+<i>"Building AI solutions that create real-world impact."</i>
 </p>
