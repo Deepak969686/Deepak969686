@@ -9,7 +9,7 @@ Passionate about building AI-powered applications, solving Data Structures & Alg
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Deeapk Kumar Saini&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -23,7 +23,7 @@ Passionate about building AI-powered applications, solving Data Structures & Alg
 - 💻 Passionate about **Java, Data Structures & Algorithms**, and writing clean, efficient code
 - 🚀 Focused on building real-world, production-ready AI solutions—not just training models
 - 📚 Regularly solving problems on **LeetCode** and **GeeksforGeeks** to strengthen problem-solving skills
-- 📫 Reach me at **your_email@gmail.com**
+- 📫 Reach me at **Deepakkumarsaini255@gmail.com**
 
 ---
 
