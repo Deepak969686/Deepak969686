@@ -124,9 +124,9 @@ Movie streaming website developed using HTML, CSS and JavaScript.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepak969686&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak969686&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -136,7 +136,7 @@ Movie streaming website developed using HTML, CSS and JavaScript.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Deepak969686&theme=tokyonight"/>
 
 </p>
 
@@ -146,7 +146,7 @@ Movie streaming website developed using HTML, CSS and JavaScript.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Deepak969686&theme=tokyonight&margin-w=10"/>
 
 </p>
 
@@ -168,7 +168,7 @@ Movie streaming website developed using HTML, CSS and JavaScript.
 
 # 📈 Contribution Graph
 
-[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/Deepak969686)
+[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepak969686&theme=tokyo-night)](https://github.com/Deepak969686)
 
 ---
 
