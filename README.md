@@ -98,6 +98,11 @@ Welcome to my GitHub profile! I'm a B.Tech CSE (Artificial Intelligence) student
 
 ### LeetCode
 
+<a href="https://leetcode.com/u/Deepak_kumar_Saini/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deepak_kumar_Saini?theme=dark)
 
 ---
