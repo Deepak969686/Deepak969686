@@ -105,7 +105,7 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 
 ---
 
-## 🏅 LeetCode
+### 🏅 LeetCode
 
 <p align="center">
 
@@ -114,7 +114,7 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 </p>
 
 
-## 🟢 GeeksforGeeks
+### 🟢 GeeksforGeeks
 
 <p align="center">
 
