@@ -10,11 +10,10 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Generative+AI;LLMs+%7C+RAG+%7C+MLOps;Always+Learning+Something+New+🚀" />
-</p
+</p>
 
 
 ---
-
 
 # 🚀 About Me
 
@@ -88,39 +87,17 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 
 # 💻 Competitive Programming
 
-<p align="center">
+###  Codolio
 
-<a href="https://codolio.com/profile/Deepakkumarsaini">
-<img src="https://img.shields.io/badge/Codolio-Profile-24292F?style=for-the-badge"/>
-</a>
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-24292F?style=for-the-badge)](https://codolio.com/profile/Deepakkumarsaini)
 
-<a href="https://leetcode.com/u/Deepak_kumar_Saini/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+###  LeetCode
 
-<a href="https://www.geeksforgeeks.org/user/dksaini0704/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Deepak_kumar_Saini?theme=dark)
 
-</p>
+###  GeeksforGeeks
 
-
-### 🏅 LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Deepak_kumar_Saini?theme=dark&font=Nunito&ext=contest"/>
-
-</p>
-
-
-### 🟢 GeeksforGeeks
-
-<p align="center">
-
-<img src="https://gfgstatscard.vercel.app/dksaini0704"/>
-
-</p>
+![GFG Stats](https://gfgstatscard.vercel.app/dksaini0704)
 
 ---
 
