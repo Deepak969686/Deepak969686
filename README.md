@@ -1,7 +1,17 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:7C3AED,70:8B5CF6,100:6366F1&text=Deepak%20Kumar%20Saini&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descAlignY=58"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Deepak Kumar Saini</h1>
 
+<h3 align="center">
+Building Intelligent Software • AI Engineer in Progress • Machine Learning • Generative AI
+</h3>
+
 <p align="center">
-  🎓 B.Tech CSE (Artificial Intelligence) Student • 🤖 AI/ML • 💻 Java for DSA & OOP
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&center=true&vCenter=true&width=900&color=8B5CF6&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Generative+AI;Computer+Vision;Natural+Language+Processing;LLMs+%7C+RAG+%7C+LangChain;FastAPI+%7C+Docker+%7C+AWS+EC2;Always+Learning+Something+New+🚀"/>
+
 </p>
 
 <p align="center">
@@ -15,15 +25,6 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 
 ---
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Deepak969686&label=Profile+Views&color=6D28D9&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Deepak969686?label=Followers&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/stars/Deepak969686?affiliations=OWNER&label=Stars&style=for-the-badge&color=4F46E5"/>
-
-</p>
 
 # 🚀 About Me
 
