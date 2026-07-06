@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Saini</h1>
 
-<h3 align="center">
-Building Intelligent Software • AI Engineer in Progress • Machine Learning • Generative AI
-</h3>
-
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&center=true&vCenter=true&width=900&color=8B5CF6&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Generative+AI;Computer+Vision;Natural+Language+Processing;LLMs+%7C+RAG+%7C+LangChain;FastAPI+%7C+Docker+%7C+AWS+EC2;Always+Learning+Something+New+🚀"/>
-
+  🎓 B.Tech CSE (Artificial Intelligence) Student • 🤖 AI/ML • 💻 Java for DSA & OOP
 </p>
 
 <p align="center">
@@ -16,7 +10,7 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Generative+AI;LLMs+%7C+RAG+%7C+MLOps;Always+Learning+Something+New+🚀" />
-</p>
+</p
 
 
 ---
@@ -170,10 +164,4 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 
 <p align="center">
 <i>"Building AI solutions that create real-world impact."</i>
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,35:7C3AED,70:8B5CF6,100:6366F1&height=120&section=footer"/>
-
 </p>
