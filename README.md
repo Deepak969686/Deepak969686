@@ -164,3 +164,9 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 <p align="center">
 <i>"Building AI solutions that create real-world impact."</i>
 </p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,35:7C3AED,70:8B5CF6,100:6366F1&height=120&section=footer"/>
+
+</p>
