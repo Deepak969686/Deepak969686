@@ -114,7 +114,7 @@ I believe great AI systems require not only accurate models but also scalable en
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp"/>
 
 </p>
 
