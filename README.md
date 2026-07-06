@@ -15,6 +15,16 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 
 ---
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Deepak969686&label=Profile+Views&color=6D28D9&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Deepak969686?label=Followers&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/stars/Deepak969686?affiliations=OWNER&label=Stars&style=for-the-badge&color=4F46E5"/>
+
+</p>
+
 # 🚀 About Me
 
 - 🎓 4th Year B.Tech CSE (Artificial Intelligence) student at **SKIT, Jaipur**
