@@ -1,7 +1,3 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:7C3AED,70:8B5CF6,100:6366F1&text=Deepak%20Kumar%20Saini&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descAlignY=58"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Deepak Kumar Saini</h1>
 
 <h3 align="center">
