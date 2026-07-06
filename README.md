@@ -87,17 +87,40 @@ Building real-world AI applications across Machine Learning, Deep Learning, NLP,
 
 # 💻 Competitive Programming
 
-###  Codolio
+<p align="center">
 
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-24292F?style=for-the-badge)](https://codolio.com/profile/Deepakkumarsaini)
+<a href="https://codolio.com/profile/Deepakkumarsaini">
+<img src="https://img.shields.io/badge/Codolio-Profile-24292F?style=for-the-badge"/>
+</a>
 
-###  LeetCode
+<a href="https://leetcode.com/u/Deepak_kumar_Saini/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Deepak_kumar_Saini?theme=dark)
+<a href="https://www.geeksforgeeks.org/user/dksaini0704/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-###  GeeksforGeeks
+</p>
 
-![GFG Stats](https://gfgstatscard.vercel.app/dksaini0704)
+---
+
+## 🏅 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Deepak_kumar_Saini?theme=dark&font=Nunito&ext=contest"/>
+
+</p>
+
+
+## 🟢 GeeksforGeeks
+
+<p align="center">
+
+<img src="https://gfgstatscard.vercel.app/dksaini0704"/>
+
+</p>
 
 ---
 
